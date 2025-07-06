@@ -8,10 +8,10 @@ Proyek ini merupakan studi kasus analisis penjualan untuk sebuah kedai kopi fikt
 
 ## Tujuan & (KPIs)
 Analisis ini difokuskan untuk menjawab pertanyaan-pertanyaan bisnis yang fundamental:
-1. Produk manakah yang menjadi penyumbang pendapatan terbesar dan produk mana yang kurang diminati?
-2. Bagaimana pola penjualan harian dan mingguan? Apakah ada hari-hari tertentu yang dapat dimanfaatkan untuk program pemasaran?
+1. Produk manakah yang menjadi penyumbang pendapatan terbesar atau paling diminati dan produk mana yang kurang diminati?
+2. Bagaimana tren penjualan harian produk per Juni 2025?
 3. Pada jam berapakah kedai mengalami transaksi paling banyak/ jam sibuk kedai?
-4. Bagaimana komposisi penjualan antara kategori Minuman dan Makanan?
+4. Kategori produk mana yang memiliki pendapatan terbesar?
 
 ## Proses Kerja
 Proyek ini dikerjakan melalui beberapa tahapan utama:
@@ -19,7 +19,7 @@ Proyek ini dikerjakan melalui beberapa tahapan utama:
 2. **Data Cleaning:** Membersihkan data seperti inkonsistensi nama, data kosong dan format yang salah menggunakan rumus `TRIM`, `PROPER`, `UPPER`, `Find & Replace`, dan `Filter`.
 3. **Data Analysis:** Menganalisis data menggunakan PivotTable untuk mengetahui pola dan tren penjualan.
 4. **Data Visualization:** Membangun dashboard interaktif menggunakan PivotTable dan slicer untuk visualisasi data.
-5. Dashboard Intreaktif <a href="https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Dashboard.png">Lihat Dashboard</a>
+5. ##Dashboard Intreaktif:## <a href="https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Dashboard.png">Lihat Dashboard</a>
 
 ##Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/08604e9a-7736-4be0-9d25-e6baaa13852f)
