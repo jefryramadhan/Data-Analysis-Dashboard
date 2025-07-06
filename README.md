@@ -49,6 +49,7 @@ Alokasi karyawan dengan menambah karyawan saat shift pagi.
 1. **Lihat Presentasi Lengkap:** Untuk rangkuman studi kasus, temuan, dan rekomendasi, silakan lihat file (https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Analisis%20Penjualan%20%26%20Rekomendasi%20Bisnis.pdf).
 
 ## Kontak
-* **LinkedIn:** (www.linkedin.com/in/jefry-ramadhan)  * **Email:** rahmadjefry@gmail.com ```
+* **LinkedIn:** (www.linkedin.com/in/jefry-ramadhan)
+* **Email:** rahmadjefry@gmail.com 
 
 
