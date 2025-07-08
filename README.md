@@ -22,7 +22,8 @@ Proyek ini dikerjakan melalui beberapa tahapan utama:
 5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Dashboard.png">Lihat Dashboard</a>
 
 ## Dashboard
-![Dashboard](https://github.com/user-attachments/assets/08604e9a-7736-4be0-9d25-e6baaa13852f)
+![Dashboard](https://github.com/user-attachments/assets/1dd7f86f-c2f0-434b-9984-6bcb189d12a7)
+
 
 ## Insight
 Beberapa insight utama yang ditemukan dari analisis ini adalah:
@@ -40,13 +41,13 @@ Alokasi karyawan dengan menambah karyawan saat shift pagi.
    
 ## Tools
 * **Microsoft Excel:**
-    * Formula & Functions (`TRIM`, `PROPER`, `UPPER`, `VLOOKUP`,`FIND AND REPLACE`)
+    * Formula & Functions (`TRIM`, `PROPER`, `UPPER`, `VLOOKUP`,`FIND & REPLACE`, dan `FILTER`)
     * PivotTable & PivotChart
     * Slicer
     * Dashboarding
 
 ## Detail Proyek
-1. **Lihat Presentasi Lengkap:** Untuk rangkuman studi kasus, temuan, dan rekomendasi, silakan lihat file (https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Analisis%20Penjualan%20%26%20Rekomendasi%20Bisnis.pdf).
+1. **Lihat Presentasi Lengkap:** Untuk rangkuman studi kasus, temuan, dan rekomendasi, silakan lihat file ().
 
 ## Kontak
 * **LinkedIn:** (www.linkedin.com/in/jefry-ramadhan)
