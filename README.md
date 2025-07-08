@@ -19,7 +19,7 @@ Proyek ini dikerjakan melalui beberapa tahapan utama:
 2. **Data Cleaning:** Membersihkan data seperti inkonsistensi nama, data kosong dan format yang salah menggunakan rumus `TRIM`, `PROPER`, `UPPER`, `Find & Replace`, dan `Filter`.
 3. **Data Analysis:** Menganalisis data menggunakan PivotTable untuk mengetahui pola dan tren penjualan.
 4. **Data Visualization:** Membangun dashboard interaktif menggunakan PivotTable dan slicer untuk visualisasi data.
-5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Dashboard.png">Lihat Dashboard</a>
+5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Dashboard1.png">Lihat Dashboard</a>
 
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/1dd7f86f-c2f0-434b-9984-6bcb189d12a7)
@@ -47,7 +47,7 @@ Alokasi karyawan dengan menambah karyawan saat shift pagi.
     * Dashboarding
 
 ## Detail Proyek
-1. **Lihat Presentasi Lengkap:** Untuk rangkuman studi kasus, temuan, dan rekomendasi, silakan lihat file ().
+1. **Lihat Presentasi Lengkap:** Untuk rangkuman studi kasus, temuan, dan rekomendasi, silakan lihat file (https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Analisis%20%26%20Rekomendasi%20Penjualan%20Kedai%20Kopi%20Senja%20Juni%202025.pdf).
 
 ## Kontak
 * **LinkedIn:** (www.linkedin.com/in/jefry-ramadhan)
